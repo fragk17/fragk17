@@ -23,6 +23,7 @@ I enjoy building things close to the system, like multi-process and multithreade
 | [job-executor-server](https://github.com/fragk17/job-executor-server) | Job scheduler server in two versions: FIFOs + signals, then TCP + thread pool | C, pthreads, sockets |
 | [childcare-platform](https://github.com/fragk17/childcare-platform) | Web platform that connects parents with childcare professionals ([live](https://eam-24-25.web.app)) | React, Firebase |
 | [twitter-sentiment-nlp](https://github.com/fragk17/twitter-sentiment-nlp) | Sentiment classification from TF-IDF to a DNN to BERT (85.4% accuracy) | PyTorch, Transformers |
+| [travel-agency-db](https://github.com/fragk17/travel-agency-db) | ER model and 18-table MySQL schema, 10 analytical SQL queries, and a Python reporting app | MySQL, SQL, Python |
 | [linear-hashing-voter-db](https://github.com/fragk17/linear-hashing-voter-db) | Dynamically growing linear-hashing table built from scratch | C |
 | [os-process-ipc](https://github.com/fragk17/os-process-ipc) | Process-tree parallel sort and readers-writers with shared memory | C, IPC |
 | [computational-geometry](https://github.com/fragk17/computational-geometry) | Convex hulls, Delaunay via lifting, KD-trees: implemented and benchmarked | Python |
